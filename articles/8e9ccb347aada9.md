@@ -27,8 +27,6 @@ published: true
 
 ## Prometheus を準備、起動
 
-![](https://app-gram-kei.com/wp-content/uploads/sng/8334f4937b6f53a56afd71ecb74e29f4.)
-
 https://github.com/prometheus/prometheus/releases
 
 prometheus を動かす環境の cpu アーキテクチャに合ったアーカイブファイルのリンクをコピーします。
@@ -108,8 +106,6 @@ ts=2024-05-12T23:21:00.238Z caller=main.go:623 level=info host_details="(Linux 5
 監視対象サーバーに Node_Exporter を追加していきます。
 
 下記のページから、自分の監視対象サーバーにあったアーカイブファイルを取得します。
-
-![](https://app-gram-kei.com/wp-content/uploads/sng/cc0efe4f7a9f8911f2261b6cd15e37c0.)
 
 https://github.com/prometheus/node_exporter
 

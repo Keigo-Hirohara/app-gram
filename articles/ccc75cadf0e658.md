@@ -211,17 +211,3 @@ published: true
 4. ...
 
 と、悔いのない人生を送ることにつながります(^^)
-
-エンジニアとして成長するために役に立ちそうな記事を紹介していますので、ぜひご覧ください。
-
-![](/images/ff8ad15c4dcade2365e5d3dd0266f34f.jpg)
-
-https://app-gram-kei.com/?p=694
-
-![](/images/097a581cb53eec93e4527993e7197b71.jpg)
-
-https://app-gram-kei.com/?p=630
-
-![](/images/3f97757349ca6d6a1f728019168652c8.png)
-
-https://app-gram-kei.com/?p=279
